@@ -27,7 +27,6 @@
         android:textStyle="bold"
         android:text="Enter Your Username & Password"
         app:layout_constraintTop_toBottomOf="@id/tx1"
-        app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"/>
     <ImageView
         android:id="@+id/img1"
